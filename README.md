@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/desridho/">
   <img align="left" alt="Desridho Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="">
+<a href="https://discord.gg/CtWSgtEB">
   <img align="left" alt="Desridho Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
