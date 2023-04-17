@@ -10,7 +10,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=deskarbowo.deskarbowo)
-![](https://visitor-badge.glitch.me/badge?page_id=deskarbowo.deskarbowo)
 <br />
 
 **languages and tools:**  
